@@ -302,7 +302,6 @@
 				TargetAttributes = {
 					3C3C1C9F1E5FBB2C00628162 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = GTECCMJC5W;
 					};
 				};
 			};
