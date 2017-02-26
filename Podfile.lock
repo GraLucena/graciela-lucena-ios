@@ -1,0 +1,63 @@
+PODS:
+  - Alamofire (3.5.1)
+  - CellRegistrable (1.0.0)
+  - HexColors (4.0.0)
+  - Realm (1.1.0):
+    - Realm/Headers (= 1.1.0)
+  - Realm/Headers (1.1.0)
+  - RealmSwift (1.1.0):
+    - Realm (= 1.1.0)
+  - RxBlocking (2.6.1):
+    - RxSwift (~> 2.6)
+  - RxCocoa (2.6.1):
+    - RxSwift (~> 2.6)
+  - RxRealm (0.1.8):
+    - RealmSwift (~> 1.0)
+    - RxSwift
+  - RxSwift (2.6.1)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0.4)
+  - Unbox (1.9)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.5.1)
+  - CellRegistrable (from `https://github.com/KogiMobileSAS/CellRegistrable.git`, branch `master`)
+  - HexColors (~> 4.0.0)
+  - RealmSwift
+  - RxBlocking (~> 2.0)
+  - RxCocoa (~> 2.0)
+  - RxRealm
+  - RxSwift (~> 2.0)
+  - SDWebImage
+  - SVProgressHUD (~> 2.0.3)
+  - Unbox (~> 1.0)
+
+EXTERNAL SOURCES:
+  CellRegistrable:
+    :branch: master
+    :git: https://github.com/KogiMobileSAS/CellRegistrable.git
+
+CHECKOUT OPTIONS:
+  CellRegistrable:
+    :commit: 39d9a48f1670d29c587de7a3c85033ddcacd572a
+    :git: https://github.com/KogiMobileSAS/CellRegistrable.git
+
+SPEC CHECKSUMS:
+  Alamofire: 0dfba1184a543e2aa160f4e39cac4e8aba48d223
+  CellRegistrable: 41f82dba61e7ee4b83487ead19d09374faa2cca1
+  HexColors: 5f95843ef89aff6a72e1fd3a8ebabf205cc43379
+  Realm: ceecf1a4540c4ce9efe196fe73fa9855bce05bd8
+  RealmSwift: 838058b2db95b12cb86bd0cf209df642c33fb60a
+  RxBlocking: ff9f5a592b813dd9e3bacd1bf82f72dc00f60ad8
+  RxCocoa: 3bb2820fd2a1ba48a70d38926bec0803838ae802
+  RxRealm: e1620fd20f5dc0d14c10e92bcc6c2c70bfb03ebe
+  RxSwift: 0147fbf94e65c6085da9540de92848189ac1c3f6
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
+  Unbox: a6f56a1682b5fd2ba6aea96d7b1ec17599db4f05
+
+PODFILE CHECKSUM: 863b0a23b61ad344ba6fb3f194fd44554296dae8
+
+COCOAPODS: 1.1.1
